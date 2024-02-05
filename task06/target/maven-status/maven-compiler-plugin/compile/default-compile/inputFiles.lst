@@ -1,0 +1,8 @@
+C:\task06\jsrc\main\java\com\task06\dto\Response.java
+C:\task06\jsrc\main\java\com\task06\strategy\impl\InsertDynamoDbEventStrategy.java
+C:\task06\jsrc\main\java\com\task06\entity\AuditCreatedRecord.java
+C:\task06\jsrc\main\java\com\task06\entity\AuditUpdatedRecord.java
+C:\task06\jsrc\main\java\com\task06\strategy\impl\ModifyDynamoDbEventStrategy.java
+C:\task06\jsrc\main\java\com\task06\strategy\DynamoDbEventStrategy.java
+C:\task06\jsrc\main\java\com\task06\entity\ConfigurationRecord.java
+C:\task06\jsrc\main\java\com\task06\AuditProducer.java

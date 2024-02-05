@@ -1,0 +1,11 @@
+com\task06\dto\Response.class
+com\task06\entity\AuditCreatedRecord.class
+com\task06\strategy\DynamoDbEventStrategy.class
+com\task06\dto\Response$1.class
+com\task06\AuditProducer.class
+com\task06\entity\AuditCreatedRecord$AuditNewValueRecord.class
+com\task06\entity\ConfigurationRecord.class
+com\task06\entity\AuditUpdatedRecord.class
+com\task06\strategy\impl\ModifyDynamoDbEventStrategy.class
+com\task06\dto\Response$Builder.class
+com\task06\strategy\impl\InsertDynamoDbEventStrategy.class
